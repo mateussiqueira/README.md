@@ -9,6 +9,4 @@ A few facts about me:
 - 🇧🇷 I live in [Brasil](https://goo.gl/maps/w3UqohohXgJ7wT757). My timezone is (GMT-3).
 - 🙎🏻‍♂️ My native language is Portuguese. I also speak fluent English.
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/1mateus/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/annadomashych/)&nbsp;
 
