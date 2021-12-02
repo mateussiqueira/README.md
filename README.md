@@ -10,3 +10,5 @@ A few facts about me:
 - 🙎🏻‍♂️ My native language is Portuguese. I also speak fluent English.
 
 [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/1mateus/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/annadomashych/)&nbsp;
+
