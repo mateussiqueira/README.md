@@ -8,3 +8,5 @@ A few facts about me:
 - 😍 I am passionate about what I do, and programming is my major hobby.
 - 🇧🇷 I live in [Brasil](https://goo.gl/maps/w3UqohohXgJ7wT757). My timezone is (GMT-3).
 - 🙎🏻‍♂️ My native language is Portuguese. I also speak fluent English.
+
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/1mateus/)&nbsp;&nbsp;&nbsp;&nbsp;
